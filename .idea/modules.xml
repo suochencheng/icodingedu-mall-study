@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/icodingedu-mall-study.iml" filepath="$PROJECT_DIR$/.idea/icodingedu-mall-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-admin-web/im-admin-web.iml" filepath="$PROJECT_DIR$/im-admin-web/im-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-api/im-api.iml" filepath="$PROJECT_DIR$/im-api/im-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-common-util/im-common-util.iml" filepath="$PROJECT_DIR$/im-common-util/im-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-dbreverse/im-dbreverse.iml" filepath="$PROJECT_DIR$/im-dbreverse/im-dbreverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-parent/im-parent.iml" filepath="$PROJECT_DIR$/im-parent/im-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-product-manage/im-product-manage.iml" filepath="$PROJECT_DIR$/im-product-manage/im-product-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-service-util/im-service-util.iml" filepath="$PROJECT_DIR$/im-service-util/im-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-web-util/im-web-util.iml" filepath="$PROJECT_DIR$/im-web-util/im-web-util.iml" />
+    </modules>
+  </component>
+</project>

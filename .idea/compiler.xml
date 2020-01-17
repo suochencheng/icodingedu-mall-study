@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="im-common-util" />
+        <module name="im-service-util" />
+        <module name="im-dbreverse" />
+        <module name="im-product-manage" />
+        <module name="im-web-util" />
+        <module name="im-api" />
+        <module name="im-admin-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="im-admin-web" target="1.8" />
+      <module name="im-api" target="1.8" />
+      <module name="im-common-util" target="1.8" />
+      <module name="im-dbreverse" target="1.8" />
+      <module name="im-parent" target="1.8" />
+      <module name="im-product-manage" target="1.8" />
+      <module name="im-service-util" target="1.8" />
+      <module name="im-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="im-admin-web" options="-parameters" />
+      <module name="im-api" options="-parameters" />
+      <module name="im-common-util" options="-parameters" />
+      <module name="im-dbreverse" options="-parameters" />
+      <module name="im-product-manage" options="-parameters" />
+      <module name="im-service-util" options="-parameters" />
+      <module name="im-web-util" options="-parameters" />
+    </option>
+  </component>
+</project>
